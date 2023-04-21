@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/dn/py-tests/manim/louvain/media/videos/manim_examples/480p15/partial_movie_files/Introduction/3539995710_3212399357_2445106671.mp4'
+file 'file:/Users/dn/py-tests/manim/louvain/media/videos/manim_examples/480p15/partial_movie_files/Introduction/61031464_2037796475_2780674912.mp4'
+file 'file:/Users/dn/py-tests/manim/louvain/media/videos/manim_examples/480p15/partial_movie_files/Introduction/61031464_3551237437_1918990657.mp4'
+file 'file:/Users/dn/py-tests/manim/louvain/media/videos/manim_examples/480p15/partial_movie_files/Introduction/211601656_3315967912_244828875.mp4'

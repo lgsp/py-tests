@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/dn/py-tests/manim/reducible-2022/JPEGImageCompression/media/videos/scenes/480p15/partial_movie_files/SponsorRect/4266129954_3315967912_631829896.mp4'
+file 'file:/Users/dn/py-tests/manim/reducible-2022/JPEGImageCompression/media/videos/scenes/480p15/partial_movie_files/SponsorRect/4266129954_2782741062_4174018169.mp4'
+file 'file:/Users/dn/py-tests/manim/reducible-2022/JPEGImageCompression/media/videos/scenes/480p15/partial_movie_files/SponsorRect/1442284246_3315967912_4233385902.mp4'

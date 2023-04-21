@@ -1,0 +1,121 @@
+from manim import *
+
+SCALE_FACTOR = 0.5
+# flip width => height, height => width
+tmp_pixel_height = config.pixel_height
+config.pixel_height = config.pixel_width
+config.pixel_width = tmp_pixel_height
+# Change coord system dimensions
+config.frame_height = config.frame_height / SCALE_FACTOR
+config.frame_width = config.frame_height * 9 / 16
+FRAME_HEIGHT = config.frame_height
+FRAME_WIDTH = config.frame_width
+
+
+class YouTubeShort2(Scene):
+    def setup(self, add_border=True):
+        if add_border:
+            self.border = Rectangle(
+                width = FRAME_WIDTH,
+                height = FRAME_HEIGHT,
+                color = WHITE
+            )
+            self.add(self.border)
+    
+    def construct(self):
+        # Russian
+        paragraph_ru = Paragraph(
+            'Привет всем.',
+            'Давайте учить русский, ',
+            'английский и французский!'
+        )
+        
+        
+        paragraph_phonetics_ru = Paragraph(
+            "[prʲɪˈvʲet vsʲɪm]",
+            "/dəˈvajtʲɪ ʊˈtɕitʲ ˈruskʲɪj/",
+            "[ˈanɡlʲɪjskʲɪj i frant͡suzkʲɪj]"
+        )
+        
+
+        # English 
+        paragraph_en = Paragraph(
+            'Hello everybody.',
+            "Let's learn Russian, ",
+            "English, and French!"
+        )
+        
+        
+        paragraph_phonetics_en = Paragraph(
+            " /hɛˈloʊ ˈɛvriˌbɑdi/",
+            " /lɛts lɜːrn ˈrʌʃən/",
+            "/'ɪŋɡlɪʃ, ənd frɛntʃ/"
+        )
+        
+        
+        
+        # French 
+        paragraph_fr = Paragraph(
+            "Bonjour tout le monde.",
+            "Apprenons le russe, ",
+            "l'anglais et le français !"
+        )
+        #line_fr_1.to_edge(LEFT, buff=0.5).to_edge(UP, buff=0.5)
+        
+        paragraph_phonetics_fr = Paragraph(
+            "/bɔ̃ʒuʁ tu lə mɔ̃d/",
+            "/a.pʁə.nɔ̃ lə ʁys/",
+            "/lɑ̃.ɡlɛ e lə fʁɑ̃.sɛ/"
+        )
+        
+        
+
+        # Displaying text
+        self.wait(1)
+        self.play(
+            Write(paragraph_ru)
+        )
+        self.wait(6)
+        
+        self.play(
+            ReplacementTransform(
+                paragraph_ru,
+                paragraph_phonetics_ru
+            )
+        )
+        self.wait(6)
+
+
+        self.play(FadeOut(paragraph_phonetics_ru))
+        self.wait(2)
+
+        self.play(Write(paragraph_en))
+        self.wait(6)
+
+
+        self.play(
+            ReplacementTransform(
+                paragraph_en,
+                paragraph_phonetics_en
+            )
+        )
+        self.wait(6)
+
+        self.play(FadeOut(paragraph_phonetics_en))
+        self.wait(2)
+
+        self.play(Write(paragraph_fr)
+        )
+        self.wait(6)
+
+        self.play(
+            ReplacementTransform(
+                paragraph_fr,
+                paragraph_phonetics_fr
+            )
+        )
+        self.wait(6)
+
+        
+
+        

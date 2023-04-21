@@ -1,0 +1,7 @@
+from PyQt6
+
+class ChatbotWindow:
+    pass
+
+class Chatbot:
+    pass

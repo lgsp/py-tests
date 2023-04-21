@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/dn/py-tests/manim/louvain/media/videos/manim_examples/480p15/partial_movie_files/OpeningManim/4266129954_409279390_223132457.mp4'
+file 'file:/Users/dn/py-tests/manim/louvain/media/videos/manim_examples/480p15/partial_movie_files/OpeningManim/1442284246_3315967912_1543568878.mp4'
+file 'file:/Users/dn/py-tests/manim/louvain/media/videos/manim_examples/480p15/partial_movie_files/OpeningManim/1442284246_1921452821_1979030680.mp4'
+file 'file:/Users/dn/py-tests/manim/louvain/media/videos/manim_examples/480p15/partial_movie_files/OpeningManim/1442284246_3315967912_1612204391.mp4'
+file 'file:/Users/dn/py-tests/manim/louvain/media/videos/manim_examples/480p15/partial_movie_files/OpeningManim/1442284246_4763303_2005568558.mp4'
+file 'file:/Users/dn/py-tests/manim/louvain/media/videos/manim_examples/480p15/partial_movie_files/OpeningManim/1442284246_3315967912_2737813226.mp4'
+file 'file:/Users/dn/py-tests/manim/louvain/media/videos/manim_examples/480p15/partial_movie_files/OpeningManim/1442284246_2460621384_3865760640.mp4'
+file 'file:/Users/dn/py-tests/manim/louvain/media/videos/manim_examples/480p15/partial_movie_files/OpeningManim/1442284246_3315967912_1313700176.mp4'
+file 'file:/Users/dn/py-tests/manim/louvain/media/videos/manim_examples/480p15/partial_movie_files/OpeningManim/1442284246_1272806602_1009925902.mp4'
+file 'file:/Users/dn/py-tests/manim/louvain/media/videos/manim_examples/480p15/partial_movie_files/OpeningManim/1442284246_3315967912_3108130209.mp4'

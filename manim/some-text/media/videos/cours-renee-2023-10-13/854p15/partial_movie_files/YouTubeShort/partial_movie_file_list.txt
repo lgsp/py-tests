@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/dn/py-tests/manim/some-text/media/videos/cours-renee-2023-10-13/854p15/partial_movie_files/YouTubeShort/2972524921_1860735015_3576432605.mp4'
+file 'file:/Users/dn/py-tests/manim/some-text/media/videos/cours-renee-2023-10-13/854p15/partial_movie_files/YouTubeShort/3952553786_2540272385_4043354405.mp4'
+file 'file:/Users/dn/py-tests/manim/some-text/media/videos/cours-renee-2023-10-13/854p15/partial_movie_files/YouTubeShort/3952553786_2911784301_2495793724.mp4'
+file 'file:/Users/dn/py-tests/manim/some-text/media/videos/cours-renee-2023-10-13/854p15/partial_movie_files/YouTubeShort/3952553786_2540272385_3764250306.mp4'
+file 'file:/Users/dn/py-tests/manim/some-text/media/videos/cours-renee-2023-10-13/854p15/partial_movie_files/YouTubeShort/3952553786_948213900_1313904498.mp4'
+file 'file:/Users/dn/py-tests/manim/some-text/media/videos/cours-renee-2023-10-13/854p15/partial_movie_files/YouTubeShort/3952553786_190800790_962187673.mp4'
+file 'file:/Users/dn/py-tests/manim/some-text/media/videos/cours-renee-2023-10-13/854p15/partial_movie_files/YouTubeShort/3952553786_1551825874_3407650225.mp4'
+file 'file:/Users/dn/py-tests/manim/some-text/media/videos/cours-renee-2023-10-13/854p15/partial_movie_files/YouTubeShort/3952553786_2540272385_2516540918.mp4'
+file 'file:/Users/dn/py-tests/manim/some-text/media/videos/cours-renee-2023-10-13/854p15/partial_movie_files/YouTubeShort/3952553786_2175913650_1107096691.mp4'
+file 'file:/Users/dn/py-tests/manim/some-text/media/videos/cours-renee-2023-10-13/854p15/partial_movie_files/YouTubeShort/3952553786_2540272385_2386644944.mp4'

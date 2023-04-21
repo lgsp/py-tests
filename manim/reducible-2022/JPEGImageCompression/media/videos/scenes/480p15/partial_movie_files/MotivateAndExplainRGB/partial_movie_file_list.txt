@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/dn/py-tests/manim/reducible-2022/JPEGImageCompression/media/videos/scenes/480p15/partial_movie_files/MotivateAndExplainRGB/2135941123_2237174032_1546107441.mp4'
+file 'file:/Users/dn/py-tests/manim/reducible-2022/JPEGImageCompression/media/videos/scenes/480p15/partial_movie_files/MotivateAndExplainRGB/2458995555_3931201982_1294210409.mp4'
+file 'file:/Users/dn/py-tests/manim/reducible-2022/JPEGImageCompression/media/videos/scenes/480p15/partial_movie_files/MotivateAndExplainRGB/738685063_4198387966_2876672650.mp4'
+file 'file:/Users/dn/py-tests/manim/reducible-2022/JPEGImageCompression/media/videos/scenes/480p15/partial_movie_files/MotivateAndExplainRGB/777364051_2306046165_4103179972.mp4'
+file 'file:/Users/dn/py-tests/manim/reducible-2022/JPEGImageCompression/media/videos/scenes/480p15/partial_movie_files/MotivateAndExplainRGB/3863946428_3472207701_1363443784.mp4'
+file 'file:/Users/dn/py-tests/manim/reducible-2022/JPEGImageCompression/media/videos/scenes/480p15/partial_movie_files/MotivateAndExplainRGB/1002932736_424880411_2348677677.mp4'
+file 'file:/Users/dn/py-tests/manim/reducible-2022/JPEGImageCompression/media/videos/scenes/480p15/partial_movie_files/MotivateAndExplainRGB/1776467847_3840731550_2649500945.mp4'
+file 'file:/Users/dn/py-tests/manim/reducible-2022/JPEGImageCompression/media/videos/scenes/480p15/partial_movie_files/MotivateAndExplainRGB/2303635873_3472207701_2343715243.mp4'

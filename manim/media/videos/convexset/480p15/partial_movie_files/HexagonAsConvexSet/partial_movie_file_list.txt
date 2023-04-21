@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/dn/py-tests/manim/media/videos/convexset/480p15/partial_movie_files/HexagonAsConvexSet/4266129954_2476423881_1607799192.mp4'
+file 'file:/Users/dn/py-tests/manim/media/videos/convexset/480p15/partial_movie_files/HexagonAsConvexSet/1442284246_547505616_484463481.mp4'
+file 'file:/Users/dn/py-tests/manim/media/videos/convexset/480p15/partial_movie_files/HexagonAsConvexSet/1442284246_3890885851_2941449388.mp4'
+file 'file:/Users/dn/py-tests/manim/media/videos/convexset/480p15/partial_movie_files/HexagonAsConvexSet/1442284246_260560218_795896742.mp4'
+file 'file:/Users/dn/py-tests/manim/media/videos/convexset/480p15/partial_movie_files/HexagonAsConvexSet/1442284246_3315967912_2389022011.mp4'

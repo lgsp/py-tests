@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/dn/py-tests/manim/media/videos/convexset/480p15/partial_movie_files/TriangleAsConvexSet/4266129954_823816432_1607799192.mp4'
+file 'file:/Users/dn/py-tests/manim/media/videos/convexset/480p15/partial_movie_files/TriangleAsConvexSet/1442284246_2543115963_3112058714.mp4'
+file 'file:/Users/dn/py-tests/manim/media/videos/convexset/480p15/partial_movie_files/TriangleAsConvexSet/1442284246_4293157106_1982546308.mp4'
+file 'file:/Users/dn/py-tests/manim/media/videos/convexset/480p15/partial_movie_files/TriangleAsConvexSet/1442284246_714597446_3302725607.mp4'
+file 'file:/Users/dn/py-tests/manim/media/videos/convexset/480p15/partial_movie_files/TriangleAsConvexSet/1442284246_3315967912_1970208807.mp4'
