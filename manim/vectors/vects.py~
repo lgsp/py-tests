@@ -1,0 +1,28 @@
+from manim import *
+
+SCALE_FACTOR = 0.5
+# flip width => height, height => width
+tmp_pixel_height = config.pixel_height
+config.pixel_height = config.pixel_width
+config.pixel_width = tmp_pixel_height
+# Change coord system dimensions
+config.frame_height = config.frame_height / SCALE_FACTOR
+config.frame_width = config.frame_height * 9 / 16
+FRAME_HEIGHT = config.frame_height
+FRAME_WIDTH = config.frame_width
+
+
+class distance(Scene):
+    def setup(self, add_border=True):
+        if add_border:
+            self.border = Rectangle(
+                width = FRAME_WIDTH,
+                height = FRAME_HEIGHT,
+                color = WHITE
+            )
+            self.add(self.border)
+    
+    def construct(self):
+        dot_1 = Dot([-2, -1, 0])
+        dot_2 = Dot([2, 1, 0])
+        

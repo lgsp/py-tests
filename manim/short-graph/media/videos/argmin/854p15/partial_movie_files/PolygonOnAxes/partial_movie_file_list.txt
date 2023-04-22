@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/dn/py-tests/manim/short-graph/media/videos/argmin/854p15/partial_movie_files/PolygonOnAxes/2972524921_2015970750_3986587647.mp4'
+file 'file:/Users/dn/py-tests/manim/short-graph/media/videos/argmin/854p15/partial_movie_files/PolygonOnAxes/3952553786_495941269_373442017.mp4'
+file 'file:/Users/dn/py-tests/manim/short-graph/media/videos/argmin/854p15/partial_movie_files/PolygonOnAxes/3952553786_1439653764_1908778860.mp4'
+file 'file:/Users/dn/py-tests/manim/short-graph/media/videos/argmin/854p15/partial_movie_files/PolygonOnAxes/3952553786_670165307_2335751340.mp4'
